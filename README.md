@@ -18,7 +18,7 @@ Examples:
 
 ## Usage
 
-First of all, visit [`vanity-shatat.tk`](https://vanity-shatat.tk)
+First of all, visit [`vanity shatat`](https://vanity.shatat.ir)
 
 Enter a short prefix and/or suffix of your choice and click _Generate_ to start. Your browser will
 generate lots of random addresses until it finds one that matches your input.
